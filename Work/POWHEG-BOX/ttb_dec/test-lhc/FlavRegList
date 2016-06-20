@@ -1,0 +1,153 @@
+(b~  b  ) ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   g       | mult=  1
+ b~  b    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   0 13
+(c~  c  ) ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   g       | mult=  1
+ c~  c    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   0 13
+(s~  s  ) ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   g       | mult=  1
+ s~  s    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   0 13
+(u~  u  ) ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   g       | mult=  1
+ u~  u    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   0 13
+(d~  d  ) ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   g       | mult=  1
+ d~  d    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   0 13
+(g   g  ) ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   g       | mult=  1
+ g   g    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   0 13
+(d   d~ ) ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   g       | mult=  1
+ d   d~   ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   0 13
+(u   u~ ) ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   g       | mult=  1
+ u   u~   ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   0 13
+(s   s~ ) ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   g       | mult=  1
+ s   s~   ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   0 13
+(c   c~ ) ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   g       | mult=  1
+ c   c~   ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   0 13
+(b   b~ ) ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   g       | mult=  1
+ b   b~   ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   0 13
+(g  )b~   ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   b~      | mult=  1
+ b   b~   ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+ g  (b~ ) ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   b~      | mult=  1
+ g   g    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+(g  )c~   ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   c~      | mult=  1
+ c   c~   ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+ g  (c~ ) ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   c~      | mult=  1
+ g   g    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+(g  )s~   ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   s~      | mult=  1
+ s   s~   ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+ g  (s~ ) ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   s~      | mult=  1
+ g   g    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+(g  )u~   ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   u~      | mult=  1
+ u   u~   ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+ g  (u~ ) ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   u~      | mult=  1
+ g   g    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+(g  )d~   ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   d~      | mult=  1
+ d   d~   ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+ g  (d~ ) ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   d~      | mult=  1
+ g   g    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+(g  )d    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   d       | mult=  1
+ d~  d    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+ g  (d  ) ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   d       | mult=  1
+ g   g    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+(g  )u    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   u       | mult=  1
+ u~  u    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+ g  (u  ) ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   u       | mult=  1
+ g   g    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+(g  )s    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   s       | mult=  1
+ s~  s    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+ g  (s  ) ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   s       | mult=  1
+ g   g    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+(g  )c    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   c       | mult=  1
+ c~  c    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+ g  (c  ) ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   c       | mult=  1
+ g   g    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+(g  )b    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   b       | mult=  1
+ b~  b    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+ g  (b  ) ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   b       | mult=  1
+ g   g    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+(b~ )g    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   b~      | mult=  1
+ g   g    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+ b~ (g  ) ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   b~      | mult=  1
+ b~  b    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+(c~ )g    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   c~      | mult=  1
+ g   g    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+ c~ (g  ) ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   c~      | mult=  1
+ c~  c    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+(s~ )g    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   s~      | mult=  1
+ g   g    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+ s~ (g  ) ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   s~      | mult=  1
+ s~  s    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+(u~ )g    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   u~      | mult=  1
+ g   g    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+ u~ (g  ) ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   u~      | mult=  1
+ u~  u    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+(d~ )g    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   d~      | mult=  1
+ g   g    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+ d~ (g  ) ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   d~      | mult=  1
+ d~  d    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+(d  )g    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   d       | mult=  1
+ g   g    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+ d  (g  ) ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   d       | mult=  1
+ d   d~   ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+(u  )g    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   u       | mult=  1
+ g   g    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+ u  (g  ) ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   u       | mult=  1
+ u   u~   ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+(s  )g    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   s       | mult=  1
+ g   g    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+ s  (g  ) ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   s       | mult=  1
+ s   s~   ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+(c  )g    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   c       | mult=  1
+ g   g    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+ c  (g  ) ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   c       | mult=  1
+ c   c~   ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+(b  )g    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   b       | mult=  1
+ g   g    ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
+ b  (g  ) ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~   b       | mult=  1
+ b   b~   ==>  t    t~   W+   W-   e+   ve   mu-  vm~  b    b~      | uborn, mult=  1
+   1 13   2 13
