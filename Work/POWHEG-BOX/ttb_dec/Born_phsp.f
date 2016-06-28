@@ -149,27 +149,27 @@ c      endif
       logical ini
       data ini/.true./
       real *8 dotp,powheginput
-      real * 8 pt1,pt2
       external dotp,powheginput
       logical fixedscale
       save fixedscale,ini
+      real * 8 pt1,pt2
       if (ini) then
          if(powheginput("#fixedscale").lt.0) then
             write(*,*) '*************************************'
             write(*,*) '    Factorization and renormalization'
-            write(*,*) '    Scales mur=muf=HT/2              '
+            write(*,*) '    Scales mur=muf=sqrt(mt^2+pttop^2)'
             write(*,*) '*************************************'
             fixedscale=.false.
          else
+c            write(*,*) '*************************************'
+c            write(*,*) '    Factorization and renormalization'
+c            write(*,*) '    Scales mur=muf=mt)               '
+c            write(*,*) '*************************************'
+c--- for comparison with MCFM
             write(*,*) '*************************************'
             write(*,*) '    Factorization and renormalization'
-            write(*,*) '    Scales mur=muf=mt)               '
+            write(*,*) '    Scales mur=muf=mZ)               '
             write(*,*) '*************************************'
-c--- for comparison with MCFM
-C            write(*,*) '*************************************'
-C            write(*,*) '    Factorization and renormalization'
-C            write(*,*) '    Scales mur=muf=mZ)               '
-C            write(*,*) '*************************************'
 c--- for comparison with MCFM
             fixedscale=.true.
          endif
@@ -181,11 +181,11 @@ c--- for comparison with MCFM
 c         muf = ph_zmass
 c         mur = ph_zmass
       else
-	 pt1=sqrt(kn_cmpborn(1,3)**2+kn_cmpborn(2,3)**2)
-	 pt2=sqrt(kn_cmpborn(1,4)**2+kn_cmpborn(2,4)**2)
+         pt1 = sqrt(kn_cmpborn(1,3)**2+kn_cmpborn(2,3)**2)
+         pt2 = sqrt(kn_cmpborn(1,4)**2+kn_cmpborn(2,4)**2)
 C         muf=sqrt(kn_cmpborn(0,3)**2-kn_cmpborn(3,3)**2)
-	 muf=(pt1+pt2)/2
-         mur=muf
+         muf = (pt1+pt2)/2
+         mur = muf
       endif
       end
 
