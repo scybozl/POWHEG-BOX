@@ -1,0 +1,1635 @@
+# BEGIN PLOT
+DrawOnly=/REF/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-000/ipolhistos/tune-unitweights-000-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-001/ipolhistos/tune-unitweights-001-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-002/ipolhistos/tune-unitweights-002-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-003/ipolhistos/tune-unitweights-003-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-004/ipolhistos/tune-unitweights-004-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-005/ipolhistos/tune-unitweights-005-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-006/ipolhistos/tune-unitweights-006-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-007/ipolhistos/tune-unitweights-007-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-008/ipolhistos/tune-unitweights-008-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-009/ipolhistos/tune-unitweights-009-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-010/ipolhistos/tune-unitweights-010-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-011/ipolhistos/tune-unitweights-011-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-012/ipolhistos/tune-unitweights-012-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-013/ipolhistos/tune-unitweights-013-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-014/ipolhistos/tune-unitweights-014-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-015/ipolhistos/tune-unitweights-015-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-016/ipolhistos/tune-unitweights-016-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-017/ipolhistos/tune-unitweights-017-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-018/ipolhistos/tune-unitweights-018-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-019/ipolhistos/tune-unitweights-019-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-020/ipolhistos/tune-unitweights-020-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-021/ipolhistos/tune-unitweights-021-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-022/ipolhistos/tune-unitweights-022-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-023/ipolhistos/tune-unitweights-023-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-024/ipolhistos/tune-unitweights-024-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-025/ipolhistos/tune-unitweights-025-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-026/ipolhistos/tune-unitweights-026-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-027/ipolhistos/tune-unitweights-027-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-028/ipolhistos/tune-unitweights-028-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-029/ipolhistos/tune-unitweights-029-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-030/ipolhistos/tune-unitweights-030-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-031/ipolhistos/tune-unitweights-031-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-032/ipolhistos/tune-unitweights-032-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-033/ipolhistos/tune-unitweights-033-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-034/ipolhistos/tune-unitweights-034-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-035/ipolhistos/tune-unitweights-035-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-036/ipolhistos/tune-unitweights-036-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-037/ipolhistos/tune-unitweights-037-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-038/ipolhistos/tune-unitweights-038-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-039/ipolhistos/tune-unitweights-039-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-040/ipolhistos/tune-unitweights-040-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-041/ipolhistos/tune-unitweights-041-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-042/ipolhistos/tune-unitweights-042-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-043/ipolhistos/tune-unitweights-043-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-044/ipolhistos/tune-unitweights-044-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-045/ipolhistos/tune-unitweights-045-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-046/ipolhistos/tune-unitweights-046-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-047/ipolhistos/tune-unitweights-047-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-048/ipolhistos/tune-unitweights-048-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-049/ipolhistos/tune-unitweights-049-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-050/ipolhistos/tune-unitweights-050-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-051/ipolhistos/tune-unitweights-051-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-052/ipolhistos/tune-unitweights-052-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-053/ipolhistos/tune-unitweights-053-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-054/ipolhistos/tune-unitweights-054-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-055/ipolhistos/tune-unitweights-055-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-056/ipolhistos/tune-unitweights-056-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-057/ipolhistos/tune-unitweights-057-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-058/ipolhistos/tune-unitweights-058-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-059/ipolhistos/tune-unitweights-059-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-060/ipolhistos/tune-unitweights-060-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-061/ipolhistos/tune-unitweights-061-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-062/ipolhistos/tune-unitweights-062-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-063/ipolhistos/tune-unitweights-063-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-064/ipolhistos/tune-unitweights-064-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-065/ipolhistos/tune-unitweights-065-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-066/ipolhistos/tune-unitweights-066-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-067/ipolhistos/tune-unitweights-067-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-068/ipolhistos/tune-unitweights-068-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-069/ipolhistos/tune-unitweights-069-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-070/ipolhistos/tune-unitweights-070-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-071/ipolhistos/tune-unitweights-071-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-072/ipolhistos/tune-unitweights-072-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-073/ipolhistos/tune-unitweights-073-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-074/ipolhistos/tune-unitweights-074-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-075/ipolhistos/tune-unitweights-075-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-076/ipolhistos/tune-unitweights-076-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-077/ipolhistos/tune-unitweights-077-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-078/ipolhistos/tune-unitweights-078-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-079/ipolhistos/tune-unitweights-079-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-080/ipolhistos/tune-unitweights-080-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-081/ipolhistos/tune-unitweights-081-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-082/ipolhistos/tune-unitweights-082-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-083/ipolhistos/tune-unitweights-083-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-084/ipolhistos/tune-unitweights-084-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-085/ipolhistos/tune-unitweights-085-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-086/ipolhistos/tune-unitweights-086-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-087/ipolhistos/tune-unitweights-087-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-088/ipolhistos/tune-unitweights-088-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-089/ipolhistos/tune-unitweights-089-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-090/ipolhistos/tune-unitweights-090-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-091/ipolhistos/tune-unitweights-091-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-092/ipolhistos/tune-unitweights-092-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-093/ipolhistos/tune-unitweights-093-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-094/ipolhistos/tune-unitweights-094-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-095/ipolhistos/tune-unitweights-095-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-096/ipolhistos/tune-unitweights-096-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-097/ipolhistos/tune-unitweights-097-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-098/ipolhistos/tune-unitweights-098-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01 tunes/tune-unitweights-099/ipolhistos/tune-unitweights-099-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+YMax=0.35
+Title=t$\bar{\mathrm t}$ cross-section vs. $1^\mathrm{st}$ jet $\mathrm{p}_\mathrm{T}$
+RatioPlotReference=/REF/ATLAS_2014_I1304688_custom/d02-x01-y01
+RatioPlot=1
+LogX=1
+LogY=1
+RatioPlotYMax=1.9
+RatioPlotYLabel=Expected/Data
+LegendXPos=0.39
+XLabel=$1^\mathrm{st}$ jet $\mathrm{p}_\mathrm{T}$ [GeV]
+YLabel=$\mathrm{d}\sigma/\mathrm{dp}_{\mathrm T}$ [pb/GeV]
+YMin=0.000075
+Legend=1
+RatioPlotYMin=0.1
+# END PLOT
+
+# BEGIN HISTO1D /REF/ATLAS_2014_I1304688_custom/d02-x01-y01
+ConnectBins=0
+ErrorBars=1
+Path=/REF/ATLAS_2014_I1304688_custom/d02-x01-y01
+PolyMarker=*
+Title=Data
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	7.860500e-02	9.349000e-03	9.349000e-03
+7.000000e+01	9.000000e+01	1.288730e-01	9.410000e-03	9.410000e-03
+9.000000e+01	1.200000e+02	1.004150e-01	8.215000e-03	8.215000e-03
+1.200000e+02	1.550000e+02	5.124400e-02	5.161000e-03	5.161000e-03
+1.550000e+02	1.950000e+02	1.957200e-02	2.552000e-03	2.552000e-03
+1.950000e+02	2.350000e+02	8.721000e-03	1.128000e-03	1.128000e-03
+2.350000e+02	2.800000e+02	3.632000e-03	5.340000e-04	5.340000e-04
+2.800000e+02	1.030000e+03	2.020000e-04	2.900000e-05	2.900000e-05
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-000/ipolhistos/tune-unitweights-000-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{EE3311}}
+LineStyle=solid
+Path=tunes/tune-unitweights-000/ipolhistos/tune-unitweights-000-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-000-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.517987e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.211406e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.403396e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.629695e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.626895e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.056761e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	2.992871e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.121325e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-001/ipolhistos/tune-unitweights-001-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{3366FF}}
+LineStyle=solid
+Path=tunes/tune-unitweights-001/ipolhistos/tune-unitweights-001-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-001-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	6.093429e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.196889e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.668969e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.606809e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.889293e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.274869e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.505290e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.274888e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-002/ipolhistos/tune-unitweights-002-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{109618}}
+LineStyle=solid
+Path=tunes/tune-unitweights-002/ipolhistos/tune-unitweights-002-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-002-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.371596e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.201131e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.510725e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.600620e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.771117e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.055188e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.084012e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.088065e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-003/ipolhistos/tune-unitweights-003-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{FF9900}}
+LineStyle=solid
+Path=tunes/tune-unitweights-003/ipolhistos/tune-unitweights-003-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-003-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.592293e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.199101e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.866014e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.548467e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.622901e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	9.217454e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.624653e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.192205e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-004/ipolhistos/tune-unitweights-004-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{990099}}
+LineStyle=solid
+Path=tunes/tune-unitweights-004/ipolhistos/tune-unitweights-004-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-004-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	6.167250e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.091794e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	8.988983e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	3.806688e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.083355e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	6.039972e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.441730e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.519540e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-005/ipolhistos/tune-unitweights-005-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{EE3311}}
+LineStyle=dashed
+Path=tunes/tune-unitweights-005/ipolhistos/tune-unitweights-005-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-005-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.821769e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.117884e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.496839e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.274162e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.441963e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	7.874245e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.470346e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	9.954781e-05	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-006/ipolhistos/tune-unitweights-006-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{3366FF}}
+LineStyle=dashed
+Path=tunes/tune-unitweights-006/ipolhistos/tune-unitweights-006-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-006-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	6.065008e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.024812e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	1.114883e-01	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.740300e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.886099e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.955660e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.779277e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.951448e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-007/ipolhistos/tune-unitweights-007-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{109618}}
+LineStyle=dashed
+Path=tunes/tune-unitweights-007/ipolhistos/tune-unitweights-007-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-007-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.492988e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.268162e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.381557e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.401494e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.821623e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.588311e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.336505e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.303592e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-008/ipolhistos/tune-unitweights-008-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{FF9900}}
+LineStyle=dashed
+Path=tunes/tune-unitweights-008/ipolhistos/tune-unitweights-008-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-008-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.096252e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.238684e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.829920e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.743959e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.600115e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	9.240033e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.388062e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.133524e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-009/ipolhistos/tune-unitweights-009-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{990099}}
+LineStyle=dashed
+Path=tunes/tune-unitweights-009/ipolhistos/tune-unitweights-009-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-009-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	4.884072e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.297267e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.914677e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.562481e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.599182e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.448634e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.407438e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.146060e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-010/ipolhistos/tune-unitweights-010-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{EE3311}}
+LineStyle=dashdotted
+Path=tunes/tune-unitweights-010/ipolhistos/tune-unitweights-010-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-010-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	6.287188e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.003638e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	8.860188e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	3.316852e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.012859e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	7.216118e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.514963e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.314760e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-011/ipolhistos/tune-unitweights-011-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{3366FF}}
+LineStyle=dashdotted
+Path=tunes/tune-unitweights-011/ipolhistos/tune-unitweights-011-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-011-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.350978e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.227831e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.679221e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.949572e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.503181e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	9.183024e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.217345e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.169500e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-012/ipolhistos/tune-unitweights-012-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{109618}}
+LineStyle=dashdotted
+Path=tunes/tune-unitweights-012/ipolhistos/tune-unitweights-012-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-012-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.417357e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.187630e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.208368e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.412603e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.508330e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.587846e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.287059e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	9.458841e-05	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-013/ipolhistos/tune-unitweights-013-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{FF9900}}
+LineStyle=dashdotted
+Path=tunes/tune-unitweights-013/ipolhistos/tune-unitweights-013-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-013-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	4.236656e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.215175e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.763074e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.532181e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.796990e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	7.626039e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.233150e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.263535e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-014/ipolhistos/tune-unitweights-014-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{990099}}
+LineStyle=dashdotted
+Path=tunes/tune-unitweights-014/ipolhistos/tune-unitweights-014-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-014-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.904945e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.101910e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	8.894219e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.778535e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.215284e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.042338e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	2.977733e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.656018e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-015/ipolhistos/tune-unitweights-015-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{EE3311}}
+LineStyle=dotted
+Path=tunes/tune-unitweights-015/ipolhistos/tune-unitweights-015-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-015-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.677865e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.177512e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.545902e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.528740e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.512784e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.413716e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	2.796531e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.180769e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-016/ipolhistos/tune-unitweights-016-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{3366FF}}
+LineStyle=dotted
+Path=tunes/tune-unitweights-016/ipolhistos/tune-unitweights-016-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-016-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.493570e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.179257e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.394725e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.613760e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.809474e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.996729e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.184490e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.055782e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-017/ipolhistos/tune-unitweights-017-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{109618}}
+LineStyle=dotted
+Path=tunes/tune-unitweights-017/ipolhistos/tune-unitweights-017-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-017-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	6.489841e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.059080e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	1.022534e-01	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.820566e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.345976e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	1.063032e-02	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.222129e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.560104e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-018/ipolhistos/tune-unitweights-018-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{FF9900}}
+LineStyle=dotted
+Path=tunes/tune-unitweights-018/ipolhistos/tune-unitweights-018-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-018-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.813953e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.093371e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	1.020112e-01	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.514106e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.408533e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.484599e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.115875e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.729756e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-019/ipolhistos/tune-unitweights-019-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{990099}}
+LineStyle=dotted
+Path=tunes/tune-unitweights-019/ipolhistos/tune-unitweights-019-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-019-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.256123e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.222533e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.593802e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.850344e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.774218e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	9.565262e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.301444e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.018373e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-020/ipolhistos/tune-unitweights-020-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{EE3311}}
+LineStyle=solid
+Path=tunes/tune-unitweights-020/ipolhistos/tune-unitweights-020-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-020-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.869738e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.259006e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.732711e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.481762e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.656293e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	7.450356e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.848049e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.115705e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-021/ipolhistos/tune-unitweights-021-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{3366FF}}
+LineStyle=solid
+Path=tunes/tune-unitweights-021/ipolhistos/tune-unitweights-021-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-021-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.320216e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.208148e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.454340e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.785526e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.960337e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.632730e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.021363e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.329768e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-022/ipolhistos/tune-unitweights-022-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{109618}}
+LineStyle=solid
+Path=tunes/tune-unitweights-022/ipolhistos/tune-unitweights-022-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-022-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.621840e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.212997e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.505773e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.482243e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.760548e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.944277e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.293506e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.188054e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-023/ipolhistos/tune-unitweights-023-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{FF9900}}
+LineStyle=solid
+Path=tunes/tune-unitweights-023/ipolhistos/tune-unitweights-023-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-023-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.719896e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.023250e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	7.929367e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	5.436508e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.007392e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	6.906092e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.251537e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.891287e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-024/ipolhistos/tune-unitweights-024-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{990099}}
+LineStyle=solid
+Path=tunes/tune-unitweights-024/ipolhistos/tune-unitweights-024-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-024-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.640283e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.221852e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.163422e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.746633e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.646299e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	1.017326e-02	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.122120e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	9.005259e-05	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-025/ipolhistos/tune-unitweights-025-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{EE3311}}
+LineStyle=dashed
+Path=tunes/tune-unitweights-025/ipolhistos/tune-unitweights-025-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-025-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	4.792717e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.199626e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.675099e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.917576e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.776206e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.667755e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.971528e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.121560e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-026/ipolhistos/tune-unitweights-026-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{3366FF}}
+LineStyle=dashed
+Path=tunes/tune-unitweights-026/ipolhistos/tune-unitweights-026-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-026-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	4.599788e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.182739e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.588693e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.687315e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.793562e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.732844e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	2.632435e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.393196e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-027/ipolhistos/tune-unitweights-027-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{109618}}
+LineStyle=dashed
+Path=tunes/tune-unitweights-027/ipolhistos/tune-unitweights-027-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-027-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.296151e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.230591e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.750828e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.729133e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.867100e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.103396e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.343265e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.039236e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-028/ipolhistos/tune-unitweights-028-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{FF9900}}
+LineStyle=dashed
+Path=tunes/tune-unitweights-028/ipolhistos/tune-unitweights-028-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-028-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.469810e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.193944e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.290137e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.697173e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.551504e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	9.391040e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.123838e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.250812e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-029/ipolhistos/tune-unitweights-029-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{990099}}
+LineStyle=dashed
+Path=tunes/tune-unitweights-029/ipolhistos/tune-unitweights-029-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-029-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.414698e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.174799e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.305655e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.478184e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.788461e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.529052e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.255681e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.034261e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-030/ipolhistos/tune-unitweights-030-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{EE3311}}
+LineStyle=dashdotted
+Path=tunes/tune-unitweights-030/ipolhistos/tune-unitweights-030-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-030-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.311305e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.171216e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	7.588445e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	5.692846e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.467740e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	7.306363e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.482441e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	2.353400e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-031/ipolhistos/tune-unitweights-031-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{3366FF}}
+LineStyle=dashdotted
+Path=tunes/tune-unitweights-031/ipolhistos/tune-unitweights-031-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-031-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.477416e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.213644e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.585273e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.767562e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.711676e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	9.002450e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.424311e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.334613e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-032/ipolhistos/tune-unitweights-032-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{109618}}
+LineStyle=dashdotted
+Path=tunes/tune-unitweights-032/ipolhistos/tune-unitweights-032-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-032-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.619849e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.200055e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.547733e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.573408e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	3.004707e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.087276e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.528822e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.294355e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-033/ipolhistos/tune-unitweights-033-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{FF9900}}
+LineStyle=dashdotted
+Path=tunes/tune-unitweights-033/ipolhistos/tune-unitweights-033-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-033-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.520921e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.174783e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.401114e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.145736e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.662922e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.047410e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.198218e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.212417e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-034/ipolhistos/tune-unitweights-034-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{990099}}
+LineStyle=dashdotted
+Path=tunes/tune-unitweights-034/ipolhistos/tune-unitweights-034-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-034-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.371509e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.209431e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.664898e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.460061e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.487220e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.585267e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.155004e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.303025e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-035/ipolhistos/tune-unitweights-035-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{EE3311}}
+LineStyle=dotted
+Path=tunes/tune-unitweights-035/ipolhistos/tune-unitweights-035-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-035-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.111076e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.162245e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.009519e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.385287e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.648145e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	7.930484e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.369932e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.157210e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-036/ipolhistos/tune-unitweights-036-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{3366FF}}
+LineStyle=dotted
+Path=tunes/tune-unitweights-036/ipolhistos/tune-unitweights-036-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-036-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	6.117361e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.236514e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.307495e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.739945e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.723595e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	7.891163e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	2.860380e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.323276e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-037/ipolhistos/tune-unitweights-037-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{109618}}
+LineStyle=dotted
+Path=tunes/tune-unitweights-037/ipolhistos/tune-unitweights-037-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-037-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.727413e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.203232e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.588127e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.579244e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.629210e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	9.098656e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.034008e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.111465e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-038/ipolhistos/tune-unitweights-038-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{FF9900}}
+LineStyle=dotted
+Path=tunes/tune-unitweights-038/ipolhistos/tune-unitweights-038-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-038-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.507331e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.136325e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.522957e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.883397e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.877581e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.679933e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	2.843563e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.062485e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-039/ipolhistos/tune-unitweights-039-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{990099}}
+LineStyle=dotted
+Path=tunes/tune-unitweights-039/ipolhistos/tune-unitweights-039-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-039-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.479975e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.046838e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	8.072197e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	5.443610e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.378315e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	7.916474e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.420135e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	2.394872e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-040/ipolhistos/tune-unitweights-040-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{EE3311}}
+LineStyle=solid
+Path=tunes/tune-unitweights-040/ipolhistos/tune-unitweights-040-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-040-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.514940e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.208482e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.514666e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.688275e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.489472e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	9.529011e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.279347e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.159931e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-041/ipolhistos/tune-unitweights-041-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{3366FF}}
+LineStyle=solid
+Path=tunes/tune-unitweights-041/ipolhistos/tune-unitweights-041-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-041-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.221400e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.222270e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.981652e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.970572e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.748679e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.250123e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	2.487082e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.157238e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-042/ipolhistos/tune-unitweights-042-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{109618}}
+LineStyle=solid
+Path=tunes/tune-unitweights-042/ipolhistos/tune-unitweights-042-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-042-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.208694e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.219050e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.579480e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.795851e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.784420e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.417128e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.125552e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.143007e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-043/ipolhistos/tune-unitweights-043-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{FF9900}}
+LineStyle=solid
+Path=tunes/tune-unitweights-043/ipolhistos/tune-unitweights-043-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-043-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	6.087070e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.088661e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	8.543229e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	5.501543e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.001772e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	6.486246e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.336114e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.895339e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-044/ipolhistos/tune-unitweights-044-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{990099}}
+LineStyle=solid
+Path=tunes/tune-unitweights-044/ipolhistos/tune-unitweights-044-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-044-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.269698e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.103531e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	7.208384e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	5.718222e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.238191e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	6.476575e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.327958e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	2.169029e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-045/ipolhistos/tune-unitweights-045-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{EE3311}}
+LineStyle=dashed
+Path=tunes/tune-unitweights-045/ipolhistos/tune-unitweights-045-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-045-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.525935e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.169894e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	1.030219e-01	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	5.124373e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.697287e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.872233e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.256738e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	9.328661e-05	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-046/ipolhistos/tune-unitweights-046-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{3366FF}}
+LineStyle=dashed
+Path=tunes/tune-unitweights-046/ipolhistos/tune-unitweights-046-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-046-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.937499e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.150951e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	8.638182e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.059896e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.603923e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	9.077305e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.039843e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.151654e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-047/ipolhistos/tune-unitweights-047-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{109618}}
+LineStyle=dashed
+Path=tunes/tune-unitweights-047/ipolhistos/tune-unitweights-047-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-047-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.384922e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.275947e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.656372e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.600195e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.851600e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.595974e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.229405e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	9.084363e-05	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-048/ipolhistos/tune-unitweights-048-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{FF9900}}
+LineStyle=dashed
+Path=tunes/tune-unitweights-048/ipolhistos/tune-unitweights-048-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-048-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.486897e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.200349e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	8.031200e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	5.451541e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.069201e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	6.449308e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.386752e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.646313e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-049/ipolhistos/tune-unitweights-049-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{990099}}
+LineStyle=dashed
+Path=tunes/tune-unitweights-049/ipolhistos/tune-unitweights-049-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-049-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.814697e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.100686e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.738416e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.363840e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.706084e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	7.619615e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.167969e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.139596e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-050/ipolhistos/tune-unitweights-050-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{EE3311}}
+LineStyle=dashdotted
+Path=tunes/tune-unitweights-050/ipolhistos/tune-unitweights-050-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-050-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.030783e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.267241e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	1.015909e-01	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	5.120529e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.913907e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.453141e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.531497e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.257262e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-051/ipolhistos/tune-unitweights-051-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{3366FF}}
+LineStyle=dashdotted
+Path=tunes/tune-unitweights-051/ipolhistos/tune-unitweights-051-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-051-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	4.959695e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.211468e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.805982e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.691711e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.760502e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.969692e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.742671e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.212701e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-052/ipolhistos/tune-unitweights-052-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{109618}}
+LineStyle=dashdotted
+Path=tunes/tune-unitweights-052/ipolhistos/tune-unitweights-052-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-052-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.616971e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.110030e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.164987e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.758945e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.872653e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	9.673671e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.381215e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.284620e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-053/ipolhistos/tune-unitweights-053-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{FF9900}}
+LineStyle=dashdotted
+Path=tunes/tune-unitweights-053/ipolhistos/tune-unitweights-053-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-053-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.595956e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.165720e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.977526e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.927677e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.657706e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	9.659894e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.721655e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.051178e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-054/ipolhistos/tune-unitweights-054-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{990099}}
+LineStyle=dashdotted
+Path=tunes/tune-unitweights-054/ipolhistos/tune-unitweights-054-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-054-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.903889e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.195259e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.327858e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.278196e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.771767e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	7.486956e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.140328e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.187450e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-055/ipolhistos/tune-unitweights-055-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{EE3311}}
+LineStyle=dotted
+Path=tunes/tune-unitweights-055/ipolhistos/tune-unitweights-055-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-055-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.003234e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.223651e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.779266e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.608286e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.670354e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	7.359033e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	2.789559e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.183546e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-056/ipolhistos/tune-unitweights-056-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{3366FF}}
+LineStyle=dotted
+Path=tunes/tune-unitweights-056/ipolhistos/tune-unitweights-056-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-056-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.614451e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.151352e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	7.745079e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.790724e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.226822e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	7.416494e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	2.984144e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	2.274850e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-057/ipolhistos/tune-unitweights-057-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{109618}}
+LineStyle=dotted
+Path=tunes/tune-unitweights-057/ipolhistos/tune-unitweights-057-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-057-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.617680e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.179809e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.549467e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.594371e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.851604e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.962910e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	2.630259e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.207372e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-058/ipolhistos/tune-unitweights-058-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{FF9900}}
+LineStyle=dotted
+Path=tunes/tune-unitweights-058/ipolhistos/tune-unitweights-058-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-058-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.484443e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.015481e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	1.071001e-01	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.157853e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.578456e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	4.405619e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	1.912366e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.667846e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-059/ipolhistos/tune-unitweights-059-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{990099}}
+LineStyle=dotted
+Path=tunes/tune-unitweights-059/ipolhistos/tune-unitweights-059-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-059-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.655695e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.074325e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	8.932409e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.154917e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.586328e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	7.555922e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	2.371152e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.247512e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-060/ipolhistos/tune-unitweights-060-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{EE3311}}
+LineStyle=solid
+Path=tunes/tune-unitweights-060/ipolhistos/tune-unitweights-060-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-060-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.945253e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.147670e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.580496e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.473496e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.520585e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.285796e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.519172e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.300923e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-061/ipolhistos/tune-unitweights-061-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{3366FF}}
+LineStyle=solid
+Path=tunes/tune-unitweights-061/ipolhistos/tune-unitweights-061-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-061-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.669224e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.148971e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.257004e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.639378e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.828165e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.812276e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.143750e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.069776e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-062/ipolhistos/tune-unitweights-062-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{109618}}
+LineStyle=solid
+Path=tunes/tune-unitweights-062/ipolhistos/tune-unitweights-062-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-062-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	4.578952e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.121323e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.685854e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.599011e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.722887e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	7.887001e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.061980e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.139996e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-063/ipolhistos/tune-unitweights-063-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{FF9900}}
+LineStyle=solid
+Path=tunes/tune-unitweights-063/ipolhistos/tune-unitweights-063-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-063-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.648948e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.156789e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.343259e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.478875e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.747224e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.228097e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	2.992578e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.066787e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-064/ipolhistos/tune-unitweights-064-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{990099}}
+LineStyle=solid
+Path=tunes/tune-unitweights-064/ipolhistos/tune-unitweights-064-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-064-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.176644e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.187740e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.261219e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.811443e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.835063e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.650002e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	2.737362e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.065695e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-065/ipolhistos/tune-unitweights-065-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{EE3311}}
+LineStyle=dashed
+Path=tunes/tune-unitweights-065/ipolhistos/tune-unitweights-065-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-065-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	6.045790e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.241772e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.409473e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.621925e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.664150e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.361149e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.475885e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.348063e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-066/ipolhistos/tune-unitweights-066-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{3366FF}}
+LineStyle=dashed
+Path=tunes/tune-unitweights-066/ipolhistos/tune-unitweights-066-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-066-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.186598e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.114196e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	8.951919e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.085750e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.863711e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.992828e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.095070e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.021819e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-067/ipolhistos/tune-unitweights-067-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{109618}}
+LineStyle=dashed
+Path=tunes/tune-unitweights-067/ipolhistos/tune-unitweights-067-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-067-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.493451e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.180325e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.905096e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.326670e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.773379e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.299425e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.048563e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.131006e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-068/ipolhistos/tune-unitweights-068-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{FF9900}}
+LineStyle=dashed
+Path=tunes/tune-unitweights-068/ipolhistos/tune-unitweights-068-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-068-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	6.191487e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	9.861895e-02	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	1.262531e-01	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.383137e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.849338e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	9.548185e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	2.830430e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.781879e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-069/ipolhistos/tune-unitweights-069-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{990099}}
+LineStyle=dashed
+Path=tunes/tune-unitweights-069/ipolhistos/tune-unitweights-069-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-069-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.878982e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.176132e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.513130e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.313403e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.771671e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.416824e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.751864e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.003340e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-070/ipolhistos/tune-unitweights-070-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{EE3311}}
+LineStyle=dashdotted
+Path=tunes/tune-unitweights-070/ipolhistos/tune-unitweights-070-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-070-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	4.877233e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.263943e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.870141e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.484590e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.600439e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	7.800151e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	2.720249e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.001074e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-071/ipolhistos/tune-unitweights-071-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{3366FF}}
+LineStyle=dashdotted
+Path=tunes/tune-unitweights-071/ipolhistos/tune-unitweights-071-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-071-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.446545e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.280351e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.900174e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.698841e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.753037e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.934503e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.492735e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.101851e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-072/ipolhistos/tune-unitweights-072-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{109618}}
+LineStyle=dashdotted
+Path=tunes/tune-unitweights-072/ipolhistos/tune-unitweights-072-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-072-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.714433e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.194612e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.736892e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.718767e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.800450e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.488116e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.037339e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.164060e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-073/ipolhistos/tune-unitweights-073-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{FF9900}}
+LineStyle=dashdotted
+Path=tunes/tune-unitweights-073/ipolhistos/tune-unitweights-073-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-073-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.969907e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	9.755816e-02	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	1.127309e-01	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.370336e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.716396e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	9.265663e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	2.917278e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.496482e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-074/ipolhistos/tune-unitweights-074-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{990099}}
+LineStyle=dashdotted
+Path=tunes/tune-unitweights-074/ipolhistos/tune-unitweights-074-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-074-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.997021e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.096597e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.186212e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.756178e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.479605e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.367360e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	2.848059e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.670563e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-075/ipolhistos/tune-unitweights-075-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{EE3311}}
+LineStyle=dotted
+Path=tunes/tune-unitweights-075/ipolhistos/tune-unitweights-075-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-075-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.133005e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.207209e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.181192e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.454328e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.480220e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.681930e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.183040e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	8.661182e-05	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-076/ipolhistos/tune-unitweights-076-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{3366FF}}
+LineStyle=dotted
+Path=tunes/tune-unitweights-076/ipolhistos/tune-unitweights-076-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-076-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	6.056920e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.166377e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	1.023591e-01	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.690505e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.386019e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	9.799338e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	2.868137e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.459299e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-077/ipolhistos/tune-unitweights-077-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{109618}}
+LineStyle=dotted
+Path=tunes/tune-unitweights-077/ipolhistos/tune-unitweights-077-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-077-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.583422e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.205782e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	8.990916e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.818967e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.537856e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.621497e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.399790e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.054525e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-078/ipolhistos/tune-unitweights-078-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{FF9900}}
+LineStyle=dotted
+Path=tunes/tune-unitweights-078/ipolhistos/tune-unitweights-078-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-078-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.048223e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.269625e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.769277e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.924129e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	3.074766e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.149713e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.563929e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.083400e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-079/ipolhistos/tune-unitweights-079-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{990099}}
+LineStyle=dotted
+Path=tunes/tune-unitweights-079/ipolhistos/tune-unitweights-079-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-079-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.471797e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.222511e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.641944e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.900067e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.884339e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.457217e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.518425e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.190363e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-080/ipolhistos/tune-unitweights-080-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{EE3311}}
+LineStyle=solid
+Path=tunes/tune-unitweights-080/ipolhistos/tune-unitweights-080-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-080-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.622125e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.179382e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.330450e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.428845e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.685429e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.056604e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.018016e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.162207e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-081/ipolhistos/tune-unitweights-081-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{3366FF}}
+LineStyle=solid
+Path=tunes/tune-unitweights-081/ipolhistos/tune-unitweights-081-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-081-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.247832e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.147261e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.359692e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.351366e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.691369e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.549778e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.116649e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.173532e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-082/ipolhistos/tune-unitweights-082-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{109618}}
+LineStyle=solid
+Path=tunes/tune-unitweights-082/ipolhistos/tune-unitweights-082-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-082-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.394107e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.237744e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.573195e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.663495e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.387703e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.821186e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	2.779669e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.156165e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-083/ipolhistos/tune-unitweights-083-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{FF9900}}
+LineStyle=solid
+Path=tunes/tune-unitweights-083/ipolhistos/tune-unitweights-083-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-083-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.691588e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.241421e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.767482e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.780526e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.703060e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.859733e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.647574e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.171814e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-084/ipolhistos/tune-unitweights-084-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{990099}}
+LineStyle=solid
+Path=tunes/tune-unitweights-084/ipolhistos/tune-unitweights-084-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-084-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.935161e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.128719e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	7.294786e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	5.037227e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.328581e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	6.031103e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	2.462621e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	2.430480e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-085/ipolhistos/tune-unitweights-085-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{EE3311}}
+LineStyle=dashed
+Path=tunes/tune-unitweights-085/ipolhistos/tune-unitweights-085-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-085-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.713753e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.135313e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	8.929178e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.207459e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.596131e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	7.419925e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	2.954897e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.312807e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-086/ipolhistos/tune-unitweights-086-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{3366FF}}
+LineStyle=dashed
+Path=tunes/tune-unitweights-086/ipolhistos/tune-unitweights-086-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-086-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.371453e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.214526e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.821311e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.631422e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.729471e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.134589e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.081868e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.100013e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-087/ipolhistos/tune-unitweights-087-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{109618}}
+LineStyle=dashed
+Path=tunes/tune-unitweights-087/ipolhistos/tune-unitweights-087-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-087-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.656936e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.081259e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.853030e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.702412e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.567205e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	9.093868e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	2.795883e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.713653e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-088/ipolhistos/tune-unitweights-088-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{FF9900}}
+LineStyle=dashed
+Path=tunes/tune-unitweights-088/ipolhistos/tune-unitweights-088-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-088-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.563962e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.277893e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.447230e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.494531e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.446896e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	9.319611e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	2.916417e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	8.610435e-05	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-089/ipolhistos/tune-unitweights-089-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{990099}}
+LineStyle=dashed
+Path=tunes/tune-unitweights-089/ipolhistos/tune-unitweights-089-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-089-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.821937e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.191313e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.414578e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.760978e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.800263e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	9.103624e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.355698e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	8.957643e-05	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-090/ipolhistos/tune-unitweights-090-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{EE3311}}
+LineStyle=dashdotted
+Path=tunes/tune-unitweights-090/ipolhistos/tune-unitweights-090-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-090-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.612021e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.233969e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.562077e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.333689e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.578311e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.675849e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.061838e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.038775e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-091/ipolhistos/tune-unitweights-091-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{3366FF}}
+LineStyle=dashdotted
+Path=tunes/tune-unitweights-091/ipolhistos/tune-unitweights-091-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-091-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.626304e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.133127e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.526846e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	3.662469e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.191092e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	7.094048e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.457082e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.461446e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-092/ipolhistos/tune-unitweights-092-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{109618}}
+LineStyle=dashdotted
+Path=tunes/tune-unitweights-092/ipolhistos/tune-unitweights-092-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-092-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.050840e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.139176e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.656380e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.591246e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.753781e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	7.972833e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	2.621097e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.325902e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-093/ipolhistos/tune-unitweights-093-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{FF9900}}
+LineStyle=dashdotted
+Path=tunes/tune-unitweights-093/ipolhistos/tune-unitweights-093-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-093-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.681258e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.076300e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	8.857340e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	3.784038e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.177731e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	7.509965e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	2.720856e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.173696e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-094/ipolhistos/tune-unitweights-094-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{990099}}
+LineStyle=dashdotted
+Path=tunes/tune-unitweights-094/ipolhistos/tune-unitweights-094-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-094-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.571077e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.100651e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	6.814494e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	5.031191e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.375374e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	7.099276e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	2.294595e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	2.629522e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-095/ipolhistos/tune-unitweights-095-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{EE3311}}
+LineStyle=dotted
+Path=tunes/tune-unitweights-095/ipolhistos/tune-unitweights-095-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-095-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	4.945407e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.218648e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.612564e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.486472e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.505109e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	7.929211e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	2.548981e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	9.825361e-05	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-096/ipolhistos/tune-unitweights-096-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{3366FF}}
+LineStyle=dotted
+Path=tunes/tune-unitweights-096/ipolhistos/tune-unitweights-096-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-096-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.860758e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.106399e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.006118e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.216364e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.528009e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	7.623280e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	2.952077e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.108546e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-097/ipolhistos/tune-unitweights-097-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{109618}}
+LineStyle=dotted
+Path=tunes/tune-unitweights-097/ipolhistos/tune-unitweights-097-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-097-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	4.473622e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.137842e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.132681e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.252530e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.637440e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	7.716107e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	2.332460e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.385414e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-098/ipolhistos/tune-unitweights-098-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{FF9900}}
+LineStyle=dotted
+Path=tunes/tune-unitweights-098/ipolhistos/tune-unitweights-098-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-098-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	5.331416e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.190877e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.066047e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.391995e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.526550e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.794824e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.899662e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	1.044401e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+
+# BEGIN HISTO1D tunes/tune-unitweights-099/ipolhistos/tune-unitweights-099-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+LineColor={[HTML]{990099}}
+LineStyle=dotted
+Path=tunes/tune-unitweights-099/ipolhistos/tune-unitweights-099-0.aida/ATLAS_2014_I1304688_custom/d02-x01-y01
+Title=tune-unitweights-099-0
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	4.963148e-02	0.000000e+00	0.000000e+00
+7.000000e+01	9.000000e+01	1.173483e-01	0.000000e+00	0.000000e+00
+9.000000e+01	1.200000e+02	9.256424e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.550000e+02	4.665490e-02	0.000000e+00	0.000000e+00
+1.550000e+02	1.950000e+02	2.751889e-02	0.000000e+00	0.000000e+00
+1.950000e+02	2.350000e+02	8.688145e-03	0.000000e+00	0.000000e+00
+2.350000e+02	2.800000e+02	3.664454e-03	0.000000e+00	0.000000e+00
+2.800000e+02	1.030000e+03	9.774848e-05	0.000000e+00	0.000000e+00
+# END HISTO1D
+
