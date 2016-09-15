@@ -1,0 +1,50 @@
+# BEGIN PLOT
+DrawOnly=/REF/ATLAS_2015_I1404878_custom/d03-x01-y01 /home/iwsatlas1/scyboz/Work/Herwig_8TeV_MSTW2008_muTopMTScale_DefaultShower_mT172.5_251.659pb_2M/Herwig_8TeV_MSTW2008_muTopMTScale_DefaultShower_mT172.5_251.569pb_2M.yoda/ATLAS_2015_I1404878_custom/d03-x01-y01
+Title=combined lepton channels
+RatioPlotReference=/REF/ATLAS_2015_I1404878_custom/d03-x01-y01
+RatioPlot=1
+LogY=1
+RatioPlotYMax=1.4
+RatioPlotYLabel=Output_rivet/Particle_level
+LegendXPos=0.6
+XLabel=$p_{\text{T}}^{t\bar{t}}$ [GeV]
+YLabelSep=8.0
+YLabel=$\dfrac{\text{d}\sigma^\text{fid}}{\text{d}p_{\text{T}^{t\bar{t}}}}$ [$\dfrac{\text{pb}}{\text{GeV}}$]
+Legend=1
+RatioPlotYMin=0.6
+LeftMargin=1.9
+# END PLOT
+
+# BEGIN HISTO1D /REF/ATLAS_2015_I1404878_custom/d03-x01-y01
+ConnectBins=0
+ErrorBars=1
+Path=/REF/ATLAS_2015_I1404878_custom/d03-x01-y01
+PolyMarker=*
+Title=Data
+# xlow	 xhigh	 val	 errminus	 errplus
+0.000000e+00	3.500000e+01	3.873990e-01	8.530850e-02	8.507997e-02
+3.500000e+01	7.500000e+01	2.185730e-01	4.652990e-02	4.668723e-02
+7.500000e+01	1.250000e+02	7.960280e-02	1.609056e-02	1.622339e-02
+1.250000e+02	1.700000e+02	3.520890e-02	7.313912e-03	7.317778e-03
+1.700000e+02	2.250000e+02	1.654870e-02	3.336376e-03	3.386647e-03
+2.250000e+02	8.000000e+02	1.473650e-03	2.833055e-04	2.860936e-04
+# END HISTO1D
+
+# BEGIN HISTO1D /home/iwsatlas1/scyboz/Work/Herwig_8TeV_MSTW2008_muTopMTScale_DefaultShower_mT172.5_251.659pb_2M/Herwig_8TeV_MSTW2008_muTopMTScale_DefaultShower_mT172.5_251.569pb_2M.yoda/ATLAS_2015_I1404878_custom/d03-x01-y01
+ErrorBars=1
+LineColor={[HTML]{EE3311}}
+LineStyle=solid
+Path=/home/iwsatlas1/scyboz/Work/Herwig_8TeV_MSTW2008_muTopMTScale_DefaultShower_mT172.5_251.659pb_2M/Herwig_8TeV_MSTW2008_muTopMTScale_DefaultShower_mT172.5_251.569pb_2M.yoda/ATLAS_2015_I1404878_custom/d03-x01-y01
+ScaledBy=0.012469701143934215
+Title=Herwig_8TeV_MSTW2008_muTopMTScale_DefaultShower_mT172.5_251.569pb_2M
+XLabel=
+YLabel=
+# xlow	 xhigh	 val	 errminus	 errplus
+0.000000e+00	3.500000e+01	3.868683e-01	1.379023e-03	1.379023e-03
+3.500000e+01	7.500000e+01	2.774330e-01	1.083244e-03	1.083244e-03
+7.500000e+01	1.250000e+02	1.097098e-01	6.019267e-04	6.019267e-04
+1.250000e+02	1.700000e+02	4.849776e-02	3.998546e-04	3.998546e-04
+1.700000e+02	2.250000e+02	1.904055e-02	2.306615e-04	2.306615e-04
+2.250000e+02	8.000000e+02	8.476605e-04	1.346322e-05	1.346322e-05
+# END HISTO1D
+

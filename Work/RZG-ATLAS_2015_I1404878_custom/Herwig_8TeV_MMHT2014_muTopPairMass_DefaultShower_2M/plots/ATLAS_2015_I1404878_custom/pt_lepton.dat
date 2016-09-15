@@ -1,0 +1,27 @@
+# BEGIN PLOT
+DrawOnly=/home/iwsatlas1/scyboz/Work/Herwig_8TeV_MMHT2014_muTopPairMass_DefaultShower_2M/Herwig_8TeV_MMHT2014_muTopPairMass_DefaultShower_2M.yoda/ATLAS_2015_I1404878_custom/pt_lepton
+Legend=1
+LogY=1
+# END PLOT
+
+# BEGIN HISTO1D /home/iwsatlas1/scyboz/Work/Herwig_8TeV_MMHT2014_muTopPairMass_DefaultShower_2M/Herwig_8TeV_MMHT2014_muTopPairMass_DefaultShower_2M.yoda/ATLAS_2015_I1404878_custom/pt_lepton
+ErrorBars=1
+LineColor={[HTML]{EE3311}}
+LineStyle=solid
+Path=/home/iwsatlas1/scyboz/Work/Herwig_8TeV_MMHT2014_muTopPairMass_DefaultShower_2M/Herwig_8TeV_MMHT2014_muTopPairMass_DefaultShower_2M.yoda/ATLAS_2015_I1404878_custom/pt_lepton
+Title=Herwig_8TeV_MMHT2014_muTopPairMass_DefaultShower_2M
+XLabel=
+YLabel=
+# xlow	 xhigh	 val	 errminus	 errplus
+0.000000e+00	4.000000e+01	2.044525e+03	7.149344e+00	7.149344e+00
+4.000000e+01	8.000000e+01	3.149175e+03	8.872958e+00	8.872958e+00
+8.000000e+01	1.200000e+02	1.073225e+03	5.179829e+00	5.179829e+00
+1.200000e+02	1.600000e+02	3.725000e+02	3.051639e+00	3.051639e+00
+1.600000e+02	2.000000e+02	1.434000e+02	1.893410e+00	1.893410e+00
+2.000000e+02	2.400000e+02	6.382500e+01	1.263181e+00	1.263181e+00
+2.400000e+02	2.800000e+02	3.145000e+01	8.867074e-01	8.867074e-01
+2.800000e+02	3.200000e+02	1.827500e+01	6.759253e-01	6.759253e-01
+3.200000e+02	3.600000e+02	1.285000e+01	5.667892e-01	5.667892e-01
+3.600000e+02	4.000000e+02	8.650000e+00	4.650269e-01	4.650269e-01
+# END HISTO1D
+

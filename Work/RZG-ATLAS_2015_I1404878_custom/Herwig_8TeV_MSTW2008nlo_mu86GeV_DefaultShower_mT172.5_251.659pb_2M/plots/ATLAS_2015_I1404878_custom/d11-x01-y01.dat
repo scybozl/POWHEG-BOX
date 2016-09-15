@@ -1,0 +1,50 @@
+# BEGIN PLOT
+DrawOnly=/REF/ATLAS_2015_I1404878_custom/d11-x01-y01 /home/iwsatlas1/scyboz/Work/RZG-ATLAS_2015_I1404878_custom/Herwig_8TeV_MSTW2008nlo_mu86GeV_DefaultShower_mT172.5_251.659pb_2M/Herwig_8TeV_MSTW2008nlo_mu86GeV_DefaultShower_mT172.5_251.659pb_2M.yoda/ATLAS_2015_I1404878_custom/d11-x01-y01
+Title=combined lepton channels
+RatioPlotReference=/REF/ATLAS_2015_I1404878_custom/d11-x01-y01
+RatioPlot=1
+LogY=1
+RatioPlotYMax=1.4
+RatioPlotYLabel=Output_rivet/Particle_level
+LegendXPos=0.6
+XLabel=$|p_{\text{out}}^{t\bar{t}}|$ [GeV]
+YLabelSep=8.0
+YLabel=$\dfrac{\text{d}\sigma^\text{fid}}{\text{d}|p_{\text{out}}^{t\bar{t}}|}$ [$\dfrac{\text{pb}}{\text{GeV}}$]
+Legend=1
+RatioPlotYMin=0.6
+LeftMargin=1.9
+# END PLOT
+
+# BEGIN HISTO1D /REF/ATLAS_2015_I1404878_custom/d11-x01-y01
+ConnectBins=0
+ErrorBars=1
+Path=/REF/ATLAS_2015_I1404878_custom/d11-x01-y01
+PolyMarker=*
+Title=Data
+# xlow	 xhigh	 val	 errminus	 errplus
+0.000000e+00	4.000000e+01	5.476850e-01	1.146269e-01	1.139698e-01
+4.000000e+01	8.000000e+01	1.280040e-01	2.788834e-02	2.807384e-02
+8.000000e+01	1.200000e+02	3.914690e-02	7.942762e-03	8.011116e-03
+1.200000e+02	1.700000e+02	1.349900e-02	2.701401e-03	2.761283e-03
+1.700000e+02	2.300000e+02	4.213450e-03	8.971544e-04	8.993552e-04
+2.300000e+02	6.000000e+02	3.103370e-04	6.058207e-05	6.145308e-05
+# END HISTO1D
+
+# BEGIN HISTO1D /home/iwsatlas1/scyboz/Work/RZG-ATLAS_2015_I1404878_custom/Herwig_8TeV_MSTW2008nlo_mu86GeV_DefaultShower_mT172.5_251.659pb_2M/Herwig_8TeV_MSTW2008nlo_mu86GeV_DefaultShower_mT172.5_251.659pb_2M.yoda/ATLAS_2015_I1404878_custom/d11-x01-y01
+ErrorBars=1
+LineColor={[HTML]{EE3311}}
+LineStyle=solid
+Path=/home/iwsatlas1/scyboz/Work/RZG-ATLAS_2015_I1404878_custom/Herwig_8TeV_MSTW2008nlo_mu86GeV_DefaultShower_mT172.5_251.659pb_2M/Herwig_8TeV_MSTW2008nlo_mu86GeV_DefaultShower_mT172.5_251.659pb_2M.yoda/ATLAS_2015_I1404878_custom/d11-x01-y01
+ScaledBy=0.0038990515627209668
+Title=Herwig_8TeV_MSTW2008nlo_mu86GeV_DefaultShower_mT172.5_251.659pb_2M
+XLabel=
+YLabel=
+# xlow	 xhigh	 val	 errminus	 errplus
+0.000000e+00	4.000000e+01	6.134230e-01	1.472745e-03	1.472745e-03
+4.000000e+01	8.000000e+01	1.748887e-01	7.860617e-04	7.860617e-04
+8.000000e+01	1.200000e+02	5.404055e-02	4.353588e-04	4.353588e-04
+1.200000e+02	1.700000e+02	1.642640e-02	2.125297e-04	2.125297e-04
+1.700000e+02	2.300000e+02	4.406795e-03	9.953749e-05	9.953749e-05
+2.300000e+02	6.000000e+02	2.076372e-04	8.160764e-06	8.160764e-06
+# END HISTO1D
+

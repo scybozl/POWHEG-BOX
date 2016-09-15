@@ -1,0 +1,22 @@
+# BEGIN PLOT
+DrawOnly=/home/iwsatlas1/scyboz/Work/RZG-ATLAS_2015_I1404878_custom/Herwig_8TeV_MSTW2008nlo_mu86GeV_DefaultShower_mT172.5_251.659pb_2M/Herwig_8TeV_MSTW2008nlo_mu86GeV_DefaultShower_mT172.5_251.659pb_2M.yoda/ATLAS_2015_I1404878_custom/h_selected_events
+Legend=1
+LogY=1
+# END PLOT
+
+# BEGIN HISTO1D /home/iwsatlas1/scyboz/Work/RZG-ATLAS_2015_I1404878_custom/Herwig_8TeV_MSTW2008nlo_mu86GeV_DefaultShower_mT172.5_251.659pb_2M/Herwig_8TeV_MSTW2008nlo_mu86GeV_DefaultShower_mT172.5_251.659pb_2M.yoda/ATLAS_2015_I1404878_custom/h_selected_events
+ErrorBars=1
+LineColor={[HTML]{EE3311}}
+LineStyle=solid
+Path=/home/iwsatlas1/scyboz/Work/RZG-ATLAS_2015_I1404878_custom/Herwig_8TeV_MSTW2008nlo_mu86GeV_DefaultShower_mT172.5_251.659pb_2M/Herwig_8TeV_MSTW2008nlo_mu86GeV_DefaultShower_mT172.5_251.659pb_2M.yoda/ATLAS_2015_I1404878_custom/h_selected_events
+Title=Herwig_8TeV_MSTW2008nlo_mu86GeV_DefaultShower_mT172.5_251.659pb_2M
+XLabel=
+YLabel=
+# xlow	 xhigh	 val	 errminus	 errplus
+0.000000e+00	1.000000e+00	2.000000e+06	1.000000e+05	1.000000e+05
+1.000000e+00	2.000000e+00	5.618200e+05	2.809805e+04	2.809805e+04
+2.000000e+00	3.000000e+00	1.454078e+06	7.270659e+04	7.270659e+04
+3.000000e+00	4.000000e+00	1.504267e+06	7.521562e+04	7.521562e+04
+4.000000e+00	5.000000e+00	2.787280e+05	1.394578e+04	1.394578e+04
+# END HISTO1D
+
