@@ -1,0 +1,23 @@
+# BEGIN PLOT
+DrawOnly=/home/iwsatlas1/scyboz/Work/SHERPA-SHERPAJ/seedALL.yoda/MC_XS/XS
+Title=Total generated cross section
+XMajorTickMarks=20
+LogY=0
+XLabel=
+ShowZero=0
+XMinorTickMarks=0
+YLabel=$\sigma_\text{total}$ [pb]
+Legend=1
+# END PLOT
+
+# BEGIN HISTO1D /home/iwsatlas1/scyboz/Work/SHERPA-SHERPAJ/seedALL.yoda/MC_XS/XS
+LineColor={[HTML]{EE3311}}
+LineStyle=solid
+Path=/home/iwsatlas1/scyboz/Work/SHERPA-SHERPAJ/seedALL.yoda/MC_XS/XS
+Title=seedALL
+XLabel=
+YLabel=
+# xlow	 xhigh	 val	 errminus	 errplus
+-5.000000e-01	5.000000e-01	7.250228e-01	1.141410e-02	1.141410e-02
+# END HISTO1D
+

@@ -1,0 +1,27 @@
+# BEGIN PLOT
+DrawOnly=/home/iwsatlas1/scyboz/Work/SHERPA-SHERPAJ/seedALL.yoda/MC_XS/pmXS
+Title=Fraction of positive and negative weighted events
+XMajorTickMarks=20
+LogY=0
+XLabel=$\text{sgn}(w)$
+ShowZero=0
+XMax=1
+YLabel=$\text{d}\sigma/\text{d sgn}(w)$ [pb]
+XMin=-1
+XMinorTickMarks=0
+Legend=1
+# END PLOT
+
+# BEGIN HISTO1D /home/iwsatlas1/scyboz/Work/SHERPA-SHERPAJ/seedALL.yoda/MC_XS/pmXS
+LineColor={[HTML]{EE3311}}
+LineStyle=solid
+Path=/home/iwsatlas1/scyboz/Work/SHERPA-SHERPAJ/seedALL.yoda/MC_XS/pmXS
+ScaledBy=1.0487612085043207e-07
+Title=seedALL
+XLabel=
+YLabel=
+# xlow	 xhigh	 val	 errminus	 errplus
+-1.000000e+00	0.000000e+00	1.697165e+01	3.893599e-01	3.893599e-01
+0.000000e+00	1.000000e+00	1.769247e+01	5.532858e-01	5.532858e-01
+# END HISTO1D
+

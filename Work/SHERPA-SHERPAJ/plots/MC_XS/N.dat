@@ -1,0 +1,22 @@
+# BEGIN PLOT
+DrawOnly=/home/iwsatlas1/scyboz/Work/SHERPA-SHERPAJ/seedALL.yoda/MC_XS/N
+Title=Number of generated events
+XMajorTickMarks=20
+LogY=0
+XLabel=
+XMinorTickMarks=0
+YLabel=$N$
+Legend=1
+# END PLOT
+
+# BEGIN HISTO1D /home/iwsatlas1/scyboz/Work/SHERPA-SHERPAJ/seedALL.yoda/MC_XS/N
+LineColor={[HTML]{EE3311}}
+LineStyle=solid
+Path=/home/iwsatlas1/scyboz/Work/SHERPA-SHERPAJ/seedALL.yoda/MC_XS/N
+Title=seedALL
+XLabel=
+YLabel=
+# xlow	 xhigh	 val	 errminus	 errplus
+0.000000e+00	1.000000e+00	3.420027e+07	5.848100e+03	5.848100e+03
+# END HISTO1D
+
