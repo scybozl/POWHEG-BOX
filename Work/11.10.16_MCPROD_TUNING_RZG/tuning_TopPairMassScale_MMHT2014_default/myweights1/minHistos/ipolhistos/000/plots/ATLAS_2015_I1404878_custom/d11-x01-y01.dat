@@ -1,0 +1,46 @@
+# BEGIN PLOT
+DrawOnly=/REF/ATLAS_2015_I1404878_custom/d11-x01-y01 /home/iwsatlas1/scyboz/Work/11.10.16_MCPROD_TUNING_RZG/tuning_TopPairMassScale_MMHT2014_default/minHistos/ipolhistos/000/histo-000.yoda/ATLAS_2015_I1404878_custom/d11-x01-y01
+Title=combined lepton channels
+RatioPlotReference=/REF/ATLAS_2015_I1404878_custom/d11-x01-y01
+RatioPlot=1
+LogY=1
+RatioPlotYMax=1.2
+RatioPlotYLabel=Output_rivet/Particle_level
+LegendXPos=0.6
+XLabel=$|p_{\text{out}}^{t\bar{t}}|$ [GeV]
+YLabelSep=8.0
+YLabel=$\dfrac{\text{d}\sigma^\text{fid}}{\text{d}|p_{\text{out}}^{t\bar{t}}|}$ [$\dfrac{\text{pb}}{\text{GeV}}$]
+Legend=1
+RatioPlotYMin=0.8
+LeftMargin=1.9
+# END PLOT
+
+# BEGIN HISTO1D /REF/ATLAS_2015_I1404878_custom/d11-x01-y01
+ConnectBins=0
+ErrorBars=1
+Path=/REF/ATLAS_2015_I1404878_custom/d11-x01-y01
+PolyMarker=*
+Title=Data
+# xlow	 xhigh	 val	 errminus	 errplus
+0.000000e+00	4.000000e+01	5.476850e-01	1.146269e-01	1.139698e-01
+4.000000e+01	8.000000e+01	1.280040e-01	2.788834e-02	2.807384e-02
+8.000000e+01	1.200000e+02	3.914690e-02	7.942762e-03	8.011116e-03
+1.200000e+02	1.700000e+02	1.349900e-02	2.701401e-03	2.761283e-03
+1.700000e+02	2.300000e+02	4.213450e-03	8.971544e-04	8.993552e-04
+2.300000e+02	6.000000e+02	3.103370e-04	6.058207e-05	6.145308e-05
+# END HISTO1D
+
+# BEGIN HISTO1D /home/iwsatlas1/scyboz/Work/11.10.16_MCPROD_TUNING_RZG/tuning_TopPairMassScale_MMHT2014_default/minHistos/ipolhistos/000/histo-000.yoda/ATLAS_2015_I1404878_custom/d11-x01-y01
+LineColor={[HTML]{EE3311}}
+LineStyle=solid
+Path=/home/iwsatlas1/scyboz/Work/11.10.16_MCPROD_TUNING_RZG/tuning_TopPairMassScale_MMHT2014_default/minHistos/ipolhistos/000/histo-000.yoda/ATLAS_2015_I1404878_custom/d11-x01-y01
+Title=histo-000
+# xlow	 xhigh	 val	 errminus	 errplus
+0.000000e+00	4.000000e+01	6.005595e-01	0.000000e+00	0.000000e+00
+4.000000e+01	8.000000e+01	1.459724e-01	0.000000e+00	0.000000e+00
+8.000000e+01	1.200000e+02	4.483938e-02	0.000000e+00	0.000000e+00
+1.200000e+02	1.700000e+02	1.428981e-02	0.000000e+00	0.000000e+00
+1.700000e+02	2.300000e+02	4.450203e-03	0.000000e+00	0.000000e+00
+2.300000e+02	6.000000e+02	3.336310e-04	0.000000e+00	0.000000e+00
+# END HISTO1D
+

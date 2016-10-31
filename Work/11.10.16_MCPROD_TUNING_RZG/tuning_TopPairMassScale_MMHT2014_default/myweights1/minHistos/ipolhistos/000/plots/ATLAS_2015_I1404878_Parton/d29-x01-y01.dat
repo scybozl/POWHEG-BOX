@@ -1,0 +1,49 @@
+# BEGIN PLOT
+DataTitle=\shortstack[l]{ATLAS Data, \\ arXiv:1511.04716} 
+DrawOnly=/REF/ATLAS_2015_I1404878_Parton/d29-x01-y01 /home/iwsatlas1/scyboz/Work/11.10.16_MCPROD_TUNING_RZG/tuning_TopPairMassScale_MMHT2014_default/minHistos/ipolhistos/000/histo-000.yoda/ATLAS_2015_I1404878_Parton/d29-x01-y01
+Title=Transverse momenta of parton-level top quarks
+RatioPlotReference=/REF/ATLAS_2015_I1404878_Parton/d29-x01-y01
+GofLegend=0
+RatioPlot=1
+LogY=1
+RatioPlotYLabel=Output_rivet/Parton_level
+LegendXPos=0.46
+XLabel=$\mathrm{p}_{\mathrm{T}}^t$ [GeV]
+YLabel=$d\sigma / d\mathrm{p}_{\mathrm{T}}^t$ [GeV$^{-1}$]
+LegendYPos=0.90
+Legend=1
+# END PLOT
+
+# BEGIN HISTO1D /REF/ATLAS_2015_I1404878_Parton/d29-x01-y01
+ConnectBins=0
+ErrorBars=1
+Path=/REF/ATLAS_2015_I1404878_Parton/d29-x01-y01
+PolyMarker=*
+Title=Data
+# xlow	 xhigh	 val	 errminus	 errplus
+0.000000e+00	6.000000e+01	1.043200e+00	9.950945e-02	9.540047e-02
+6.000000e+01	1.000000e+02	1.796720e+00	2.314172e-01	2.241643e-01
+1.000000e+02	1.500000e+02	1.379030e+00	1.867105e-01	1.849329e-01
+1.500000e+02	2.000000e+02	7.355090e-01	8.873815e-02	8.883360e-02
+2.000000e+02	2.600000e+02	3.124850e-01	3.780750e-02	3.788846e-02
+2.600000e+02	3.200000e+02	1.149970e-01	1.314470e-02	1.343294e-02
+3.200000e+02	4.000000e+02	4.057490e-02	4.822045e-03	4.789048e-03
+4.000000e+02	5.000000e+02	1.084630e-02	1.553837e-03	1.439001e-03
+# END HISTO1D
+
+# BEGIN HISTO1D /home/iwsatlas1/scyboz/Work/11.10.16_MCPROD_TUNING_RZG/tuning_TopPairMassScale_MMHT2014_default/minHistos/ipolhistos/000/histo-000.yoda/ATLAS_2015_I1404878_Parton/d29-x01-y01
+LineColor={[HTML]{EE3311}}
+LineStyle=solid
+Path=/home/iwsatlas1/scyboz/Work/11.10.16_MCPROD_TUNING_RZG/tuning_TopPairMassScale_MMHT2014_default/minHistos/ipolhistos/000/histo-000.yoda/ATLAS_2015_I1404878_Parton/d29-x01-y01
+Title=histo-000
+# xlow	 xhigh	 val	 errminus	 errplus
+0.000000e+00	6.000000e+01	9.882020e-01	0.000000e+00	0.000000e+00
+6.000000e+01	1.000000e+02	1.661864e+00	0.000000e+00	0.000000e+00
+1.000000e+02	1.500000e+02	1.273588e+00	0.000000e+00	0.000000e+00
+1.500000e+02	2.000000e+02	6.844103e-01	0.000000e+00	0.000000e+00
+2.000000e+02	2.600000e+02	2.992877e-01	0.000000e+00	0.000000e+00
+2.600000e+02	3.200000e+02	1.120235e-01	0.000000e+00	0.000000e+00
+3.200000e+02	4.000000e+02	3.917844e-02	0.000000e+00	0.000000e+00
+4.000000e+02	5.000000e+02	1.106462e-02	0.000000e+00	0.000000e+00
+# END HISTO1D
+

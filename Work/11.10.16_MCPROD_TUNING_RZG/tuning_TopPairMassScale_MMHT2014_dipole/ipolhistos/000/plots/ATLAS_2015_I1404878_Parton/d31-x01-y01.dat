@@ -1,0 +1,43 @@
+# BEGIN PLOT
+DataTitle=\shortstack[l]{ATLAS Data, \\ arXiv:1511.04716} 
+DrawOnly=/REF/ATLAS_2015_I1404878_Parton/d31-x01-y01 /home/iwsatlas1/scyboz/Work/11.10.16_MCPROD_TUNING_RZG/tuning_TopPairMassScale_MMHT2014_dipole/ipolhistos/000/histo-000.yoda/ATLAS_2015_I1404878_Parton/d31-x01-y01
+Title=Rapidity of parton-level top quarks
+RatioPlotReference=/REF/ATLAS_2015_I1404878_Parton/d31-x01-y01
+GofLegend=0
+RatioPlot=1
+LogY=1
+RatioPlotYLabel=Output_rivet/Parton_level
+LegendXPos=0.45
+XLabel=$|y_{t}|$
+YLabel=$d\sigma / d|y_{t}|$
+LegendYPos=0.90
+Legend=1
+# END PLOT
+
+# BEGIN HISTO1D /REF/ATLAS_2015_I1404878_Parton/d31-x01-y01
+ConnectBins=0
+ErrorBars=1
+Path=/REF/ATLAS_2015_I1404878_Parton/d31-x01-y01
+PolyMarker=*
+Title=Data
+# xlow	 xhigh	 val	 errminus	 errplus
+0.000000e+00	4.000000e-01	1.825320e+02	1.929497e+01	1.905079e+01
+4.000000e-01	8.000000e-01	1.657780e+02	1.776859e+01	1.753190e+01
+8.000000e-01	1.200000e+00	1.313560e+02	1.463700e+01	1.404592e+01
+1.200000e+00	1.600000e+00	9.346940e+01	1.076823e+01	1.102073e+01
+1.600000e+00	2.500000e+00	3.910750e+01	4.814231e+00	4.395953e+00
+# END HISTO1D
+
+# BEGIN HISTO1D /home/iwsatlas1/scyboz/Work/11.10.16_MCPROD_TUNING_RZG/tuning_TopPairMassScale_MMHT2014_dipole/ipolhistos/000/histo-000.yoda/ATLAS_2015_I1404878_Parton/d31-x01-y01
+LineColor={[HTML]{EE3311}}
+LineStyle=solid
+Path=/home/iwsatlas1/scyboz/Work/11.10.16_MCPROD_TUNING_RZG/tuning_TopPairMassScale_MMHT2014_dipole/ipolhistos/000/histo-000.yoda/ATLAS_2015_I1404878_Parton/d31-x01-y01
+Title=histo-000
+# xlow	 xhigh	 val	 errminus	 errplus
+0.000000e+00	4.000000e-01	1.744988e+02	0.000000e+00	0.000000e+00
+4.000000e-01	8.000000e-01	1.556817e+02	0.000000e+00	0.000000e+00
+8.000000e-01	1.200000e+00	1.257200e+02	0.000000e+00	0.000000e+00
+1.200000e+00	1.600000e+00	8.927020e+01	0.000000e+00	0.000000e+00
+1.600000e+00	2.500000e+00	3.615814e+01	0.000000e+00	0.000000e+00
+# END HISTO1D
+
