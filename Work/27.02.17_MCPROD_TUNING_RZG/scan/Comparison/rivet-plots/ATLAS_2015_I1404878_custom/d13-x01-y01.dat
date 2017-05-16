@@ -1,0 +1,44 @@
+# BEGIN PLOT
+LegendOnly=/ATLAS_2015_I1404878_custom/d13-x01-y01 //home/iwsatlas1/scyboz/Work/27.02.17_MCPROD_TUNING_RZG/scan/Comparison/Tuned.yoda/ATLAS_2015_I1404878_custom/d13-x01-y01
+DrawOnly=/ATLAS_2015_I1404878_custom/d13-x01-y01 //home/iwsatlas1/scyboz/Work/27.02.17_MCPROD_TUNING_RZG/scan/Comparison/Tuned.yoda/ATLAS_2015_I1404878_custom/d13-x01-y01
+Title=combined lepton channels
+RatioPlotReference=/ATLAS_2015_I1404878_custom/d13-x01-y01
+RatioPlot=1
+LogY=1
+RatioPlotYMax=1.4
+RatioPlotYLabel=Output_rivet/Particle_level
+LegendXPos=0.6
+XLabel=$\Delta \phi_{t\bar{t}}$
+YLabelSep=8.0
+YLabel=$\dfrac{\text{d}\sigma^\text{fid}}{\text{d}\Delta \phi_{t\bar{t}}}$ [pb]
+Legend=1
+RatioPlotYMin=0.6
+LeftMargin=1.9
+# END PLOT
+
+# BEGIN HISTO1D /ATLAS_2015_I1404878_custom/d13-x01-y01
+ConnectBins=0
+ErrorBars=1
+Path=/ATLAS_2015_I1404878_custom/d13-x01-y01
+PolyMarker=*
+Title=Data
+# xlow	 xhigh	 val	 errminus	 errplus
+0.000000e+00	1.400000e+00	1.248700e+00	2.745513e-01	2.724327e-01
+1.400000e+00	2.200000e+00	3.030070e+00	6.584401e-01	6.749928e-01
+2.200000e+00	2.700000e+00	9.609390e+00	2.113714e+00	2.131095e+00
+2.700000e+00	3.150000e+00	4.596160e+01	9.443037e+00	9.380537e+00
+# END HISTO1D
+
+# BEGIN HISTO1D //home/iwsatlas1/scyboz/Work/27.02.17_MCPROD_TUNING_RZG/scan/Comparison/Tuned.yoda/ATLAS_2015_I1404878_custom/d13-x01-y01
+ErrorBars=1
+LineColor=red
+LineStyle=solid
+Path=//home/iwsatlas1/scyboz/Work/27.02.17_MCPROD_TUNING_RZG/scan/Comparison/Tuned.yoda/ATLAS_2015_I1404878_custom/d13-x01-y01
+Title=Tuned
+# xlow	 xhigh	 val	 errminus	 errplus
+0.000000e+00	1.400000e+00	1.119959e+00	4.932310e-02	4.932310e-02
+1.400000e+00	2.200000e+00	2.943602e+00	1.352850e-01	1.352850e-01
+2.200000e+00	2.700000e+00	9.491195e+00	2.929210e-01	2.929210e-01
+2.700000e+00	3.150000e+00	4.915662e+01	7.570730e-01	7.570730e-01
+# END HISTO1D
+

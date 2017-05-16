@@ -1,0 +1,74 @@
+# BEGIN PLOT
+LegendOnly=/ATLAS_2014_I1304688/d02-x01-y01 //home/iwsatlas1/scyboz/Work/27.02.17_MCPROD_TUNING_RZG/scan/Comparison/Default.yoda/ATLAS_2014_I1304688/d02-x01-y01 //home/iwsatlas1/scyboz/Work/27.02.17_MCPROD_TUNING_RZG/scan/Comparison/Tuned.yoda/ATLAS_2014_I1304688/d02-x01-y01
+DrawOnly=/ATLAS_2014_I1304688/d02-x01-y01 //home/iwsatlas1/scyboz/Work/27.02.17_MCPROD_TUNING_RZG/scan/Comparison/Default.yoda/ATLAS_2014_I1304688/d02-x01-y01 //home/iwsatlas1/scyboz/Work/27.02.17_MCPROD_TUNING_RZG/scan/Comparison/Tuned.yoda/ATLAS_2014_I1304688/d02-x01-y01
+YMax=0.35
+Title=t$\bar{\mathrm t}$ cross-section vs. $1^\mathrm{st}$ jet $\mathrm{p}_\mathrm{T}$
+RatioPlotReference=/ATLAS_2014_I1304688/d02-x01-y01
+RatioPlot=1
+LogX=1
+LogY=1
+RatioPlotYMax=1.9
+RatioPlotYLabel=Expected/Data
+LegendXPos=0.39
+XLabel=$1^\mathrm{st}$ jet $\mathrm{p}_\mathrm{T}$ [GeV]
+YLabel=$\mathrm{d}\sigma/\mathrm{dp}_{\mathrm T}$ [pb/GeV]
+YMin=0.000075
+Legend=1
+RatioPlotYMin=0.1
+# END PLOT
+
+# BEGIN HISTO1D /ATLAS_2014_I1304688/d02-x01-y01
+ConnectBins=0
+ErrorBars=1
+IsRef=1
+Path=/ATLAS_2014_I1304688/d02-x01-y01
+PolyMarker=*
+Title=Data
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	7.860500e-02	9.349000e-03	9.349000e-03
+7.000000e+01	9.000000e+01	1.288730e-01	9.410000e-03	9.410000e-03
+9.000000e+01	1.200000e+02	1.004150e-01	8.215000e-03	8.215000e-03
+1.200000e+02	1.550000e+02	5.124400e-02	5.161000e-03	5.161000e-03
+1.550000e+02	1.950000e+02	1.957200e-02	2.552000e-03	2.552000e-03
+1.950000e+02	2.350000e+02	8.721000e-03	1.128000e-03	1.128000e-03
+2.350000e+02	2.800000e+02	3.632000e-03	5.340000e-04	5.340000e-04
+2.800000e+02	1.030000e+03	2.020000e-04	2.900000e-05	2.900000e-05
+# END HISTO1D
+
+# BEGIN HISTO1D //home/iwsatlas1/scyboz/Work/27.02.17_MCPROD_TUNING_RZG/scan/Comparison/Default.yoda/ATLAS_2014_I1304688/d02-x01-y01
+ErrorBars=1
+LineColor=red
+LineStyle=solid
+Path=//home/iwsatlas1/scyboz/Work/27.02.17_MCPROD_TUNING_RZG/scan/Comparison/Default.yoda/ATLAS_2014_I1304688/d02-x01-y01
+ScaledBy=0.25911497934777988
+Title=Default
+XLabel=
+YLabel=
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	8.955990e-02	2.774675e-03	2.774675e-03
+7.000000e+01	9.000000e+01	1.319943e-01	3.937180e-03	3.937180e-03
+9.000000e+01	1.200000e+02	9.453857e-02	2.168371e-03	2.168371e-03
+1.200000e+02	1.550000e+02	4.648791e-02	1.200380e-03	1.200380e-03
+1.550000e+02	1.950000e+02	1.917016e-02	6.992736e-04	6.992736e-04
+1.950000e+02	2.350000e+02	7.880813e-03	3.516566e-04	3.516566e-04
+2.350000e+02	2.800000e+02	3.714222e-03	2.084728e-04	2.084728e-04
+2.800000e+02	1.030000e+03	2.355799e-04	8.101166e-06	8.101166e-06
+# END HISTO1D
+
+# BEGIN HISTO1D //home/iwsatlas1/scyboz/Work/27.02.17_MCPROD_TUNING_RZG/scan/Comparison/Tuned.yoda/ATLAS_2014_I1304688/d02-x01-y01
+ErrorBars=1
+LineColor=blue
+LineStyle=solid
+Path=//home/iwsatlas1/scyboz/Work/27.02.17_MCPROD_TUNING_RZG/scan/Comparison/Tuned.yoda/ATLAS_2014_I1304688/d02-x01-y01
+Title=Tuned
+# xlow	 xhigh	 val	 errminus	 errplus
+5.000000e+01	7.000000e+01	8.469955e-02	3.449400e-03	3.449400e-03
+7.000000e+01	9.000000e+01	1.290396e-01	4.349820e-03	4.349820e-03
+9.000000e+01	1.200000e+02	9.574725e-02	2.815180e-03	2.815180e-03
+1.200000e+02	1.550000e+02	4.945712e-02	3.110940e-03	3.110940e-03
+1.550000e+02	1.950000e+02	1.983525e-02	9.307230e-04	9.307230e-04
+1.950000e+02	2.350000e+02	8.203884e-03	4.042380e-04	4.042380e-04
+2.350000e+02	2.800000e+02	3.729191e-03	2.927210e-04	2.927210e-04
+2.800000e+02	1.030000e+03	2.288762e-04	1.074190e-05	1.074190e-05
+# END HISTO1D
+
